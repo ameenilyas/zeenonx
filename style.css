@@ -723,7 +723,7 @@ padding: 30px 70px;
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 120vh; 
+  height: 120vh; 
   background-color: #112d42;
 
 }
